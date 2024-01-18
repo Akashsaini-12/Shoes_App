@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "shoeapp",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../../Ecommerce/shoe_app/src"
+		}
+	],
+	"settings": {}
+}
